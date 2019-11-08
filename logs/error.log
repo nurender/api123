@@ -1,0 +1,257 @@
+2019-08-31T01:23:04.449Z : undefined
+2019-08-31T01:23:24.333Z : undefined
+2019-08-31T01:23:48.000Z : undefined
+2019-08-31T01:24:06.684Z : undefined
+2019-08-31T01:24:22.210Z : undefined
+2019-08-31T01:30:13.199Z : Cannot read property 'message' of undefined
+2019-08-31T01:30:33.031Z : Cannot read property 'message' of undefined
+2019-08-31T01:30:48.958Z : Cannot read property 'message' of undefined
+2019-08-31T01:39:26.870Z : undefined
+2019-08-31T01:40:39.893Z : res is not defined
+2019-08-31T01:40:49.346Z : res is not defined
+2019-09-03T00:59:07.202Z : result is not defined
+2019-09-03T00:59:41.309Z : result is not defined
+2019-09-03T01:00:10.978Z : result is not defined
+2019-09-03T01:10:47.644Z : result is not defined
+2019-09-03T01:41:33.782Z : data and salt arguments required
+2019-09-24T00:54:05.509Z : Passwordcheck is not defined
+2019-09-24T00:57:44.754Z : Passwordcheck is not defined
+2019-09-24T00:58:55.574Z : Passwordcheck is not defined
+2019-09-24T01:20:33.949Z : Passwordcheck is not defined
+2019-09-24T01:21:37.220Z : Passwordcheck is not defined
+2019-09-24T01:21:40.799Z : Passwordcheck is not defined
+2019-09-24T23:56:51.813Z : Passwordcheck is not defined
+2019-09-24T23:57:01.047Z : Passwordcheck is not defined
+2019-09-24T23:57:29.588Z : Passwordcheck is not defined
+2019-09-24T23:58:07.829Z : Passwordcheck is not defined
+2019-09-24T23:58:11.946Z : Passwordcheck is not defined
+2019-09-24T23:58:48.136Z : Passwordcheck is not defined
+2019-09-24T23:58:56.848Z : Passwordcheck is not defined
+2019-09-24T23:59:45.035Z : Passwordcheck is not defined
+2019-09-25T00:00:08.115Z : Passwordcheck is not defined
+2019-09-25T00:00:18.559Z : Passwordcheck is not defined
+2019-09-25T00:02:09.128Z : Passwordcheck is not defined
+2019-09-25T00:04:16.613Z : Passwordcheck is not defined
+2019-09-27T00:23:09.421Z : Cannot read property '_id' of null
+2019-09-27T00:23:11.745Z : Cannot read property '_id' of null
+2019-09-27T00:27:20.485Z : Cannot read property '_id' of null
+2019-09-27T00:28:23.654Z : Cannot read property '_id' of null
+2019-09-27T00:28:24.530Z : Cannot read property '_id' of null
+2019-09-27T00:28:25.716Z : Cannot read property '_id' of null
+2019-09-27T00:28:26.489Z : Cannot read property '_id' of null
+2019-09-27T00:28:45.999Z : Cannot read property '_id' of null
+2019-09-27T00:29:24.802Z : Cannot read property '_id' of null
+2019-09-27T00:31:12.488Z : Cannot read property '_id' of null
+2019-09-27T00:31:13.985Z : Cannot read property '_id' of null
+2019-09-27T00:31:14.985Z : Cannot read property '_id' of null
+2019-09-27T00:31:49.698Z : Cannot read property '_id' of null
+2019-09-27T00:31:51.809Z : Cannot read property '_id' of null
+2019-09-29T05:46:15.786Z : Cannot read property 'trim' of undefined
+2019-09-29T06:10:56.465Z : Cannot read property 'trim' of undefined
+2019-09-29T06:38:53.266Z : Cannot read property 'trim' of undefined
+2019-09-29T06:39:58.846Z : Cannot read property 'trim' of undefined
+2019-09-29T06:40:17.291Z : req is not defined
+2019-09-29T06:40:31.374Z : Cannot read property 'path' of undefined
+2019-09-29T06:41:10.032Z : Cannot read property 'path' of undefined
+2019-09-29T06:41:20.295Z : req is not defined
+2019-09-29T06:41:29.700Z : req is not defined
+2019-09-29T06:42:04.731Z : req is not defined
+2019-09-29T06:42:24.250Z : req is not defined
+2019-09-29T06:42:46.875Z : req is not defined
+2019-09-29T06:43:57.661Z : req is not defined
+2019-09-29T06:44:33.735Z : req is not defined
+2019-09-29T10:43:03.412Z : invalid token
+2019-09-29T10:46:12.989Z : invalid token
+2019-09-29T11:40:27.376Z : invalid token
+2019-09-29T11:48:42.795Z : undefined
+2019-09-29T11:53:05.624Z : undefined
+2019-09-29T11:53:50.221Z : undefined
+2019-09-29T11:54:38.823Z : undefined
+2019-09-29T11:54:54.360Z : undefined
+2019-09-29T11:55:12.769Z : undefined
+2019-09-29T11:55:37.593Z : undefined
+2019-09-29T11:55:53.701Z : undefined
+2019-09-29T11:57:01.626Z : undefined
+2019-09-29T12:01:19.937Z : Cannot read property 'trim' of undefined
+2019-09-29T12:08:50.244Z : Cannot read property 'trim' of undefined
+2019-09-29T12:09:04.605Z : undefined
+2019-09-29T12:14:18.132Z : undefined
+2019-09-29T12:14:23.640Z : undefined
+2019-09-29T12:14:28.182Z : Cannot read property 'trim' of undefined
+2019-09-29T12:14:49.085Z : Cannot read property 'trim' of undefined
+2019-09-29T12:15:21.924Z : Cannot read property 'trim' of undefined
+2019-09-29T12:15:41.556Z : Cannot read property 'trim' of undefined
+2019-09-29T12:16:47.323Z : user is not defined
+2019-09-29T12:18:48.625Z : User is not defined
+2019-09-29T12:18:58.752Z : req is not defined
+2019-09-29T13:36:32.626Z : Cannot read property '_id' of null
+2019-09-29T15:28:20.629Z : tokenValue is not defined
+2019-09-29T15:28:36.380Z : tokenValue is not defined
+2019-09-29T15:29:53.487Z : tokenValue is not defined
+2019-09-29T15:30:06.425Z : tokenValue is not defined
+2019-09-29T15:30:27.264Z : tokenValue is not defined
+2019-10-02T00:15:16.634Z : Notes validation failed: description: Path `description` is required.
+2019-10-02T00:16:46.588Z : Notes validation failed: description: Path `description` is required.
+2019-10-02T00:16:54.239Z : Notes validation failed: description: Path `description` is required.
+2019-10-02T00:17:15.927Z : Notes validation failed: image: Path `image` is required.
+2019-10-02T00:17:33.541Z : Notes validation failed: image: Path `image` is required.
+2019-10-02T00:20:13.351Z : Cannot read property 'path' of undefined
+2019-10-02T00:20:53.295Z : Cannot read property 'path' of undefined
+2019-10-02T00:21:03.760Z : Cannot read property 'path' of undefined
+2019-10-02T00:21:37.385Z : Cannot read property 'path' of undefined
+2019-10-02T00:21:50.909Z : Cannot read property 'path' of undefined
+2019-10-02T00:22:21.109Z : Cannot read property 'path' of undefined
+2019-10-02T00:22:50.375Z : Cannot read property 'path' of undefined
+2019-10-02T00:23:10.462Z : Cannot read property 'path' of undefined
+2019-10-03T00:31:58.723Z : Notes validation failed: description: Path `description` is required.
+2019-10-03T00:34:04.233Z : Notes validation failed: description: Path `description` is required.
+2019-10-03T00:35:09.417Z : Cannot read property 'title' of undefined
+2019-10-03T00:35:26.101Z : Cannot read property 'title' of undefined
+2019-10-03T00:36:07.792Z : Notes validation failed: description: Path `description` is required.
+2019-10-03T00:37:00.424Z : Notes validation failed: description: Path `description` is required.
+2019-10-03T00:37:14.772Z : Notes validation failed: description: Path `description` is required.
+2019-10-03T00:37:43.215Z : Notes validation failed: description: Path `description` is required.
+2019-10-03T00:38:51.226Z : Notes validation failed: description: Path `description` is required.
+2019-10-03T00:38:55.949Z : Notes validation failed: description: Path `description` is required.
+2019-10-03T00:39:18.275Z : Notes validation failed: description: Path `description` is required.
+2019-10-03T00:40:18.177Z : Notes validation failed: description: Path `description` is required.
+2019-10-03T00:40:27.699Z : Notes validation failed: description: Path `description` is required.
+2019-10-03T00:40:48.660Z : Notes validation failed: description: Path `description` is required.
+2019-10-03T00:42:14.435Z : Notes validation failed: description: Path `description` is required.
+2019-10-03T00:42:21.042Z : Notes validation failed: description: Path `description` is required.
+2019-10-03T00:43:53.055Z : Notes validation failed: description: Path `description` is required.
+2019-10-03T00:44:30.251Z : Notes validation failed: description: Path `description` is required.
+2019-10-03T00:44:45.255Z : Notes validation failed: description: Path `description` is required.
+2019-10-03T00:45:12.788Z : Notes validation failed: description: Path `description` is required.
+2019-10-03T00:45:22.885Z : Notes validation failed: description: Path `description` is required.
+2019-10-03T00:48:30.108Z : Parameter "obj" to Document() must be an object, got {"title":"test","subTitle":"test","description":"p,cds"}
+2019-10-03T00:49:26.154Z : Parameter "obj" to Document() must be an object, got {"title":"test","subTitle":"test","description":"p,cds"}
+2019-10-03T00:50:03.963Z : Parameter "obj" to Document() must be an object, got {"title":"test","subTitle":"test","description":"p,cds"}
+2019-10-03T00:50:54.383Z : Notes validation failed: description: Path `description` is required.
+2019-10-03T00:53:58.395Z : Notes validation failed: description: Path `description` is required.
+2019-10-03T00:59:20.074Z : Notes validation failed: description: Path `description` is required.
+2019-10-03T00:59:56.907Z : Notes validation failed: description: Path `description` is required.
+2019-10-03T01:00:14.980Z : Notes validation failed: description: Path `description` is required.
+2019-10-03T01:08:08.933Z : Notes validation failed: description: Path `description` is required.
+2019-10-03T01:16:37.121Z : Cannot read property 'path' of undefined
+2019-10-03T01:17:02.810Z : Cannot read property 'path' of undefined
+2019-10-03T01:20:29.455Z : Cannot read property 'path' of undefined
+2019-10-03T01:20:57.332Z : stringify is not defined
+2019-10-03T01:27:46.005Z : Cannot read property 'path' of undefined
+2019-10-03T01:28:23.884Z : Notes validation failed: description: Path `description` is required.
+2019-10-03T01:29:39.329Z : Notes validation failed: description: Path `description` is required.
+2019-10-03T01:30:17.249Z : Notes validation failed: description: Path `description` is required.
+2019-10-03T01:30:37.790Z : Notes validation failed: description: Path `description` is required.
+2019-10-03T01:31:19.516Z : Notes validation failed: description: Path `description` is required.
+2019-10-03T01:31:33.298Z : Notes validation failed: description: Path `description` is required.
+2019-10-03T01:39:55.051Z : Notes validation failed: description: Path `description` is required.
+2019-10-03T01:40:14.531Z : Notes validation failed: description: Path `description` is required.
+2019-10-03T01:40:50.973Z : Cannot read property 'title' of undefined
+2019-10-04T00:18:48.766Z : undefined
+2019-10-04T00:19:17.286Z : undefined
+2019-10-04T00:19:34.385Z : undefined
+2019-10-04T00:20:01.052Z : undefined
+2019-10-04T00:21:51.273Z : undefined
+2019-10-04T00:27:39.983Z : undefined
+2019-10-04T00:28:37.837Z : undefined
+2019-10-04T00:28:40.329Z : undefined
+2019-10-04T00:29:01.023Z : undefined
+2019-10-04T00:29:02.332Z : undefined
+2019-10-04T00:29:10.334Z : undefined
+2019-10-04T00:29:14.283Z : undefined
+2019-10-04T01:43:12.717Z : undefined
+2019-10-04T01:43:12.732Z : undefined
+2019-10-04T01:43:40.779Z : undefined
+2019-10-08T02:38:10.176Z : Cannot read property 'findIndex' of undefined
+2019-10-08T02:40:24.734Z : Cannot read property 'findIndex' of undefined
+2019-10-08T02:40:47.326Z : Cannot read property 'findIndex' of undefined
+2019-10-08T02:41:00.780Z : Cannot read property 'findIndex' of undefined
+2019-10-08T02:41:03.406Z : Cannot read property 'findIndex' of undefined
+2019-10-08T02:41:26.909Z : Cannot read property 'findIndex' of undefined
+2019-10-08T02:42:34.239Z : Cannot read property 'findIndex' of undefined
+2019-10-08T02:43:07.449Z : undefined
+2019-10-08T02:44:24.332Z : Cannot read property 'findIndex' of undefined
+2019-10-08T02:45:27.988Z : Cannot read property 'userId' of undefined
+2019-10-08T02:46:26.261Z : Cannot read property 'userId' of undefined
+2019-10-08T02:46:44.540Z : Cannot read property 'userId' of undefined
+2019-10-08T02:47:09.339Z : Cannot access 'findvalue' before initialization
+2019-10-08T02:47:25.276Z : Cannot read property 'userId' of undefined
+2019-10-08T02:47:35.587Z : Cannot read property 'userId' of undefined
+2019-10-08T02:48:59.960Z : Cannot read property 'userId' of undefined
+2019-10-08T02:49:18.439Z : Cannot read property 'userId' of undefined
+2019-10-08T02:49:29.789Z : likeNotes.push is not a function
+2019-10-08T02:50:04.939Z : Cannot read property 'findIndex' of undefined
+2019-10-08T02:53:41.372Z : Cannot read property 'findIndex' of undefined
+2019-10-08T02:54:02.626Z : Cannot read property 'findIndex' of undefined
+2019-10-08T02:57:12.730Z : likeNotes.push is not a function
+2019-10-08T02:57:49.330Z : Cannot access 'findvalue' before initialization
+2019-10-08T02:58:23.045Z : Cannot access 'findvalue' before initialization
+2019-10-08T02:59:48.016Z : Cast to embedded failed for value "2" at path "likeNotes"
+2019-10-08T03:00:11.764Z : Cast to embedded failed for value "2" at path "likeNotes"
+2019-10-08T03:01:00.466Z : findvalue[0].push is not a function
+2019-10-08T03:01:24.033Z : Cast to embedded failed for value "3" at path "likeNotes"
+2019-10-08T03:01:48.295Z : Cast to embedded failed for value "3" at path "likeNotes"
+2019-10-08T03:25:29.574Z : Cannot read property '1' of undefined
+2019-10-08T06:56:33.409Z : Cannot access 'findvalue' before initialization
+2019-10-08T06:56:45.867Z : Cannot access 'findvalue' before initialization
+2019-10-08T07:00:40.870Z : Cast to ObjectId failed for value "5d9c32aefc13ac05d8315594a" at path "_id" for model "Notes"
+2019-10-08T07:03:08.890Z : Cannot create field 'isActive' in element {likeNotes: [ { isActive: true, _id: ObjectId('5d9c32aefc13ac05d8315594'), userId: "5d9039a6ee60e2276cf6b83d" } ]}
+2019-10-08T07:03:56.156Z : Cannot create field 'isActive' in element {likeNotes: [ { isActive: true, _id: ObjectId('5d9c32aefc13ac05d8315594'), userId: "5d9039a6ee60e2276cf6b83d" } ]}
+2019-10-08T07:35:19.872Z : Cannot create field 'isActive' in element {likeNotes: [ { Active: true, _id: ObjectId('5d9c3bca5f192434e4b03c58') }, { isActive: true, _id: ObjectId('5d9c3c3433f4eb07003ba27f'), userId: "5d9039a6ee60e2276cf6b83d" } ]}
+2019-10-08T07:35:21.631Z : Cannot create field 'isActive' in element {likeNotes: [ { Active: true, _id: ObjectId('5d9c3bca5f192434e4b03c58') }, { isActive: true, _id: ObjectId('5d9c3c3433f4eb07003ba27f'), userId: "5d9039a6ee60e2276cf6b83d" } ]}
+2019-10-08T07:35:22.853Z : Cannot create field 'isActive' in element {likeNotes: [ { Active: true, _id: ObjectId('5d9c3bca5f192434e4b03c58') }, { isActive: true, _id: ObjectId('5d9c3c3433f4eb07003ba27f'), userId: "5d9039a6ee60e2276cf6b83d" } ]}
+2019-10-08T07:45:19.211Z : Cannot create field 'isActive' in element {likeNotes: [ { isActive: true, _id: ObjectId('5d9c3d556b3b4e248c294f32') }, { isActive: true, _id: ObjectId('5d9c3e4018bd151e20627c52'), userId: "5d9039a6ee60e2276cf6b83d" } ]}
+2019-10-08T08:09:20.994Z : Cannot create field 'isActive' in element {likeNotes: [ { isActive: true, _id: ObjectId('5d9c3ff080f88e3674fafe45'), userId: "5d9039a6ee60e2276cf6b83d" } ]}
+2019-10-08T08:09:46.637Z : Cannot create field 'isActive' in element {likeNotes: [ { isActive: true, _id: ObjectId('5d9c3ff080f88e3674fafe45'), userId: "5d9039a6ee60e2276cf6b83d" } ]}
+2019-10-08T08:10:17.609Z : Cannot create field 'isActive' in element {likeNotes: [ { isActive: true, _id: ObjectId('5d9c446228a4613eace0bbb1'), userId: "5d9039a6ee60e2276cf6b83d" } ]}
+2019-10-08T08:14:10.769Z : Cannot create field 'isActive' in element {likeNotes: [ { isActive: true, _id: ObjectId('5d9c446228a4613eace0bbb1'), userId: "5d9039a6ee60e2276cf6b83d" } ]}
+2019-10-08T08:16:29.094Z : findvaluea is not defined
+2019-10-08T08:16:40.481Z : findvaluea is not defined
+2019-10-08T08:35:03.151Z : userId is not defined
+2019-10-08T08:35:05.369Z : userId is not defined
+2019-10-08T08:35:06.582Z : userId is not defined
+2019-10-08T08:35:15.379Z : userId is not defined
+2019-10-08T08:43:28.992Z : Cannot create field '0' in element {isActive: true}
+2019-10-08T08:44:44.660Z : db is not defined
+2019-10-09T00:31:40.106Z : Cannot read property 'likeNotes' of undefined
+2019-10-09T01:48:19.939Z : undefined
+2019-10-10T00:38:38.535Z : req is not defined
+2019-10-10T00:39:31.884Z : req is not defined
+2019-10-10T00:53:59.436Z : Cannot read property 'likeNotes' of undefined
+2019-10-11T00:22:36.861Z : req is not defined
+2019-10-11T00:55:00.572Z : Cannot read property 'userId' of undefined
+2019-10-11T00:55:25.914Z : Cannot read property 'userId' of undefined
+2019-10-11T00:56:42.401Z : Cannot read property 'userId' of undefined
+2019-10-11T00:56:58.644Z : Cannot read property 'userId' of undefined
+2019-10-11T00:57:31.335Z : Cannot read property 'userId' of undefined
+2019-10-11T00:57:51.268Z : Cannot read property 'userId' of undefined
+2019-10-11T00:59:41.827Z : Cannot read property 'userId' of undefined
+2019-10-11T01:01:43.293Z : Cannot read property 'userId' of undefined
+2019-10-11T01:02:54.918Z : Cannot read property '13' of undefined
+2019-10-17T00:13:01.281Z : item is not defined
+2019-10-17T00:17:36.638Z : Unsupported projection option: $elemMatch: { likeNotes.$.userId: "5d9039a6ee60e2276cf6b83d" }
+2019-10-17T00:49:15.521Z : Unsupported projection option: $elemMatch: { likeNotes.userId: "5d9039a6ee60e2276cf6b83d" }
+2019-10-17T00:56:54.671Z : Unsupported projection option: $elemMatch: { likeNotes.userId: "5d9039a6ee60e2276cf6b83d" }
+2019-10-17T00:57:29.432Z : Unsupported projection option: $elemMatch: { likeNotes.userId: null }
+2019-10-17T00:57:35.393Z : Unsupported projection option: $elemMatch: { likeNotes.userId: null }
+2019-10-17T00:57:48.266Z : Unsupported projection option: $elemMatch: { likeNotes.userId: "5d9039a6ee60e2276cf6b83d" }
+2019-10-17T01:02:11.381Z : Cannot read property 'id' of undefined
+2019-10-17T01:07:39.109Z : returnValue is not defined
+2019-10-17T01:08:06.875Z : returnValue is not defined
+2019-10-22T00:49:38.087Z : undefined
+2019-10-22T01:00:19.621Z : undefined
+2019-10-22T01:09:38.350Z : undefined
+2019-10-22T01:10:01.863Z : undefined
+2019-10-22T01:10:05.328Z : undefined
+2019-10-22T01:10:29.979Z : undefined
+2019-11-05T01:01:19.759Z : undefined
+2019-11-05T01:14:24.596Z : email is not defined
+2019-11-05T01:14:42.956Z : email is not defined
+2019-11-05T01:15:05.476Z : emailSend is not a function
+2019-11-05T01:15:25.720Z : jwt is not defined
+2019-11-05T01:15:50.923Z : req is not defined
+2019-11-05T01:44:37.777Z : a is not defined
+2019-11-05T01:52:54.198Z : configs is not defined
+2019-11-06T00:56:34.385Z : nodemailer is not defined
+2019-11-06T00:56:56.122Z : nodemailer is not defined
+2019-11-06T00:57:27.054Z : Cannot create property 'mailer' on string 'SMTP'
