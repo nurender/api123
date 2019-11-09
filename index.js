@@ -7,6 +7,7 @@ const logger = require('./app/core/logger');
 const database = require('./app/core/database');
 const compression = require('compression');
 const routes = require('./app/routes');
+var mongoose = require('mongoose');
 const {responseFormat,formatResponse} = require('./app/middlewares/ResponseFormat');
 require('colors');
 
