@@ -45,7 +45,8 @@ app.use(compression());
 
 // Connect database.
 // database.connect('localhost', '27017', 'myNewApp');
-const CONNECTION_URL = "mongodb+srv://nurender:nurender@cluster0-fd8yp.mongodb.net/test?retryWrites=true&w=majority";
+const CONNECTION_URL = "mongodb+srv://nurender:nurender@cluster0-fd8yp.mongodb.net/test?retryWrites=true&w=majority
+";
 mongoose.connect(CONNECTION_URL)
 // Bind with routes default ('/api')
 app.use('/api', routes);
