@@ -23,6 +23,7 @@ router.post('/login', (req, res, next) => {
   if (next instanceof Error) {
     next(next);
   }
+  console.log('loginRoutert');
   userController.login(req, res, next);
 });
 
