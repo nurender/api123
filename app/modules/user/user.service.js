@@ -27,10 +27,12 @@ createUser = async (body) => {
 // Login User
 loginUser = async (body) => {
   debugger
+    console.log('body',body);
   let findvalue = await Users.findOne({ email: body.email });
   if (findvalue.password == body.password && findvalue.email == body.email) {
     const token = generateToken({ email: body.email, id: findvalue._id });
-    let result = await Users.findOneAndUpdate({ _id: findvalue._id }, { token: token }, { new: true })
+    let result = await Users.findOneAndUpdate({ _id: findvalue._id }, { token: token }, { new: true });
+      console.log('result',result);
     return result;
   } else {
     throw "Enter valid email and password"
